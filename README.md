@@ -1,1 +1,1 @@
-![Gerçek DEĞERLER KARŞILIK Gelen Tahmini Değerler](et_fiyat_linear_regression)
+![Gerçek Değerler ve Tahmini Değerler](et_fiyat_linear_regression.png)
